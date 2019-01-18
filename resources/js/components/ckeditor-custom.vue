@@ -16,7 +16,7 @@
         data() {
             return {
                 editor: ClassicEditor,
-                editorData: '<p>hello world</p>',
+                editorData: '<p>Hello World</p>',
                 editorConfig: {
                     plugins: [
                         EssentialsPlugin,
